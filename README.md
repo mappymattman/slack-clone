@@ -1,4 +1,9 @@
+## Running at: http://slack-clone-2fe46.firebaseapp.com/
+
+## Based on the 'Build a Slack Clone in React JS' project from Clever Programmer (https://www.youtube.com/watch?v=Oo4ziTddOxs)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
